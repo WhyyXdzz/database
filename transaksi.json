@@ -57,18 +57,18 @@
     "updatedAt": "2025-02-21T08:38:31.662Z"
   },
   {
-    "id": "IBZZ-TMG2UTFS",
-    "hostname": "kak",
+    "id": "IBZZ-OJR3ESFQ",
+    "hostname": "zaeripedia.live",
     "email": "kiicodeofficial@gmail.com",
     "size": "s-1vcpu-1gb",
     "image": "ubuntu-20-04-x64",
     "originalAmount": 10,
-    "adminFee": 76,
-    "amount": 86,
-    "qrImageUrl": "https://img5.pixhost.to/images/3066/569645419_ibzz.png",
-    "expirationTime": "2025-02-21T09:57:34.023Z",
+    "adminFee": 92,
+    "amount": 102,
+    "qrImageUrl": "https://img5.pixhost.to/images/3066/569645735_ibzz.png",
+    "expirationTime": "2025-02-21T10:01:10.695Z",
     "status": "pending",
-    "createdAt": "2025-02-21T09:27:34.155Z",
-    "updatedAt": "2025-02-21T09:27:34.155Z"
+    "createdAt": "2025-02-21T09:31:10.852Z",
+    "updatedAt": "2025-02-21T09:31:10.852Z"
   }
 ]
